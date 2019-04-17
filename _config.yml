@@ -3,8 +3,8 @@ title: Kieran Malloy
 subtitle: 
 email: kieranmalloy123@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://www.kieranmalloy.com
+baseurl: "/info" # the subpath of your site, e.g. /blog
+url: 
 author: Kieran Malloy
 street_address: 33 Newton Street
 city: Greenock
@@ -26,8 +26,8 @@ googleplus_url: https://plus.google.com/u/0/+KieranMalloy
 instagram_url: https://instagram.com/kieran_malloy
 linkedin_url: https://www.linkedin.com/in/kieran-malloy-848449173
 pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/kieran_malloy
+slack_url: 
+twitter_url: https://twitter.com/Kieran_V3
 
 # build settings
 markdown: kramdown
