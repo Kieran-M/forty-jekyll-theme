@@ -3,7 +3,7 @@ title: Kieran Malloy
 subtitle: 
 email: kieranmalloy123@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/info" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 author: Kieran Malloy
 street_address: 33 Newton Street
